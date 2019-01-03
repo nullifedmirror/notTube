@@ -14,21 +14,25 @@ nTube technically breaks a clause of YouTube's TOS but fully behaves like YouTub
 
 nTube is also in beta and is a work in progress, stuff may break, you've been warned.
 
+nTube is currently partially broken on mobile platforms due to strict autoplay policies.
+
 ## About
 
 nTube is a YouTube client that allows you to interact with via your internet browser. (Unless you're on IE, your screwed)
 
-nTube can view channels, handle subscriptions, view videos.
+nTube can view channels, handle subscriptions, view videos and also view playlists. (up to 200 videos)
 
 ## Features
 
 - Supports qualities up to 8K 60fps.
 - Supports downloading videos.
 - AV1 codec support.
+- Subtitles support.
 - Livestream support.
-- Theme support.
+- Custom theme support.
 - No advertising.
 - No tracking.
+- Trending and Search support.
 
 ## Requirements
 
@@ -36,3 +40,5 @@ nTube can view channels, handle subscriptions, view videos.
 - A modern web browser (HTML5 support needed)
 
 ## Getting Started
+
+## Attributions
