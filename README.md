@@ -16,7 +16,7 @@ nTube is also in beta and is a work in progress, stuff may break, you've been wa
 
 ## About
 
-nTube is a YouTube client that allows you to interact with via your internet browser. (Unless you're on IE, your screwed')
+nTube is a YouTube client that allows you to interact with via your internet browser. (Unless you're on IE, your screwed)
 
 nTube can view channels, handle subscriptions, view videos.
 
