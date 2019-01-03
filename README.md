@@ -42,3 +42,6 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 ## Getting Started
 
 ## Attributions
+## License
+## Code of Conduct (CoC)
+Personally, I believe that CoC's are useless and as a result nTube does NOT have a Code of Conduct.
