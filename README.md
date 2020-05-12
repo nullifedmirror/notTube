@@ -52,6 +52,6 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 ## Getting Started
 ## Attributions
 ## License
-Licensed under the POSS. (Possibly Open Source License)
+Licensed under the POSS. (Possibly Open Source Software License)
 ## Code of Conduct (CoC)
 Uses the CoC included in the POSS.
