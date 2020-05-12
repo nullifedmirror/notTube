@@ -53,6 +53,7 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 ## Attributions
 ## License
 Licensed under the POSS. (Possibly Open Source Software License)
+
 POSS terms:
 
 - SOFTWARE_OS: YES
