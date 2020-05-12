@@ -1,12 +1,12 @@
-# nTube (notYouTube)
+# nTube (not[You]Tube)
 
 The sort of lightweight YouTube client.
-That also supports BitChute.
+That also supports other services.
 
 
 Information:
-> - Release: 1.4.4-rc2
-- Status: nullUtil 2.7 cleanup (Remove UNUSED code)
+> - Release: 1.5.0-indev
+- Status: Rewrite finish up
 
 ## Reminder
 
@@ -28,20 +28,30 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 - Supports downloading videos.
 - AV1 codec support.
 - Subtitles support.
-- Livestream support.
+- Livestream support. (experimental)
+- Livestream chat support.
 - Custom theme support.
 - No advertising.
 - No tracking.
 - Trending and Search support.
+- Supports both old and new browsers.
+- Sponsor blocking (data kindly provided by the SponsorBlock project)
+
+## Supported Services
+
+- YouTube (via page extraction, embedded extraction and API)
+- BitChute
+- Twitch.tv
+- Mixer
 
 ## Requirements
 
 - Java JRE/JDK 8 or newer
-- A modern web browser (HTML5 support needed)
+- A media compatible web browser (HTML5 preferred, but supports flash player)
 
 ## Getting Started
-
 ## Attributions
 ## License
+Licensed under the POSS. (Possibly Open Source License)
 ## Code of Conduct (CoC)
-Personally, I believe that CoC's are useless and as a result nTube does NOT have a Code of Conduct.
+Uses the CoC included in the POSS.
