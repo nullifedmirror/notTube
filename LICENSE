@@ -1,0 +1,101 @@
+
+	The Probably Open Source License (1.0)
+		(also known as POSS, for short)
+
+	(and the "Common Sense CoC") [CoC - Code of Conduct]
+What?
+	The POSS license takes a different approach on open-source, avoiding any political views and focusing on some core
+	low-iq apprehandable values like "not being a dick".
+
+	Also replace the O in the acronym to an I for comedic purposes.
+
+Why?
+	In our 21st century-based "evolved society" it seems that politics ruins the core values of having a singular opinion, and even will seep into our software.
+	A license should be simple not have fifty subpoints showing how to breathe and digest without insulting someone else.
+
+	Furthermore, there seem to be people on the internet that go as far as modify old use terms like "black and white"-lists because history, and because we need to be
+	"better and more accepting beings", even if we developers just want to code, and the consumers just want to use a product that isn't restrained by three hundred terms
+	regarding how X, Y and Z is called and pronouced.
+
+	We as a society have devolved to removing eggs from emojis, because it can hurt someone's poor feelings.
+	(literally no-one cares)
+
+Differences over other Licenses:
+	- Less scary looking legal text.
+		Because, be honest, how many of you have acutally read a EULA, License or any other legally bound document?
+	- Address 2 birds with one stone.
+		Because why not?
+	- Does politics politcally.
+		Because both sides are equally bad, centrists included.
+	- Uses Common Sense(TM)
+		Because thinking these days is quite rare.
+		Also is a great antivirus solution.
+
+The License:
+	The following table shows the state of the current program and will have rules below that apprahended to table.
+	The software developer must fill in this table before using this license.
+
+		Main rule table:
+		---------------------------------------------
+		- SOFTWARE_OS:				[YES/NO]		-
+		---------------------------------------------
+		- SOFTWARE_PAID:			[YES/NO]		-
+		---------------------------------------------
+		- SOFTWARE_3P_STUFF:		[YES/NO]		-
+		---------------------------------------------
+		- SOFTWARE_WARRANTY:		NO				-
+		---------------------------------------------
+
+		
+		Subset rule table:
+		---------------------------------------------
+		- ENFORCE_TRUE_OSS:			[YES/NO]		-
+		---------------------------------------------
+		- ALLOW_PAID_FREE:			[YES/NO]		-
+		---------------------------------------------
+
+	SOFTWARE_OS: (a.k.a. Is the software open-source?)
+		The license has a strict term on making OSS (Open Source Software) into closed source software.
+		If the software is open-source and you wish to make it closed-source, then sorry to ruin your day, but this license prohibits that.
+			Although adding closed-source blobs is perfectly fine, as long it is disclosed that it includes them.
+			(!!!) Software marked with ENFORCE_TRUE_OSS: Requires all parts of it to be open, this includes blobs.
+		If the software is closed-source and you wish to make it open-source, then you can, although you cannot go back.
+			Of course, closed-source blobs are exempt from this.
+			(!!!) Software marked with ENFORCE_TRUE_OSS: Blobs must be made open-source too, or must not be included.
+		If the answer is no, then the license treats it as a "view/analysis/research/use" only, meaning no republishing can made.
+
+	SOFTWARE_PAID: (a.k.a. Is the software commericalized?)
+		The license has strict enforcement on paid and free software definitions too.
+		(!!!) ENFORCE_TRUE_OSS: The software must be free as in beer, no-buts.
+		YES: (and the software IS NOT a fork)
+			Then go nuts.
+		YES: (and the software IS a fork)
+			Then it depends the on the fork, if it is paid already, then you are allowed.
+			However, if it is NOT paid, then you a forbidden from re-sale of what is already free.
+		NO:
+			Then it is free, even if forked or modified.
+			(!!!) However if it is a fork then check if ALLOW_PAID_FREE is allowed, because if it isn't then you must set SOFTWARE_PAID to "YES (ORIGINAL)"
+
+	SOFTWARE_3P_STUFF: (a.k.a Does the software contain any third-party libraries/etc.?)
+		This license has laid back enforcement of attribution to third-party libraries.
+
+	SOFTWARE_WARRANTY: (a.k.a Does the software have warranty?)
+		No. This license DOES NOT support any warranty.
+		It has so little warranty that here's some scary looking legal text to prove it.
+
+		THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+		EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+		MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+		IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+		OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+		ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+		OTHER DEALINGS IN THE SOFTWARE.
+
+The Code of Conduct:
+	The Common Sense Code of Conduct
+
+	- Don't be an asshole.
+	- Sometimes you need to be called out for your shit.
+	- Old terminology doesn't need to be replaced.
+	- Code != Politics
+	- No fun allowed :)
