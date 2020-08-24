@@ -6,7 +6,7 @@ That also supports other services.
 
 Information:
 > - Release: 1.5.0-indev
-- Status: Rewrite finish up
+- Status: Final polish, prepartions for pre-releases.
 
 ## Reminder
 
@@ -42,7 +42,9 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 - YouTube (via page extraction, embedded extraction and API)
 - BitChute
 - Twitch.tv
-- Mixer
+- Deezer (via upcoming nMusic)
+- RaveDJ (via upcoming nMusic)
+- Soundcloud (via upcoming nMusic)
 
 ## Requirements
 
