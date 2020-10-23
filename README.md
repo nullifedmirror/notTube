@@ -5,14 +5,14 @@ That also supports other services.
 
 
 Information:
-> - Release: 1.5.0-indev
-- Status: Final polish, prepartions for pre-releases.
+> - Release: 1.5.0-final-rc1
+- Status: Ready for testing!
 
 ## Reminder
 
 nTube technically breaks a clause of YouTube's TOS but fully behaves like YouTube's own video player, just without any privacy intrusive crap.
 
-nTube is also in beta and is a work in progress, stuff may break, you've been warned.
+nTube is also in pre-release stage and is a work in progress, stuff may break, you've been warned.
 
 nTube is currently partially broken on mobile platforms due to strict autoplay policies.
 
@@ -39,12 +39,9 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 
 ## Supported Services
 
-- YouTube (via page extraction, embedded extraction and API)
-- BitChute
-- Twitch.tv
-- Deezer (via upcoming nMusic)
-- RaveDJ (via upcoming nMusic)
-- Soundcloud (via upcoming nMusic)
+- YouTube (via page extraction, embedded extraction and internal API)
+- BitChute (experimental)
+- Twitch.tv (experimental)
 
 ## Requirements
 
@@ -52,9 +49,13 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 - A media compatible web browser (HTML5 preferred, but supports flash player)
 
 ## Getting Started
+1. Download a distribution of nTube.
+2. (ideally in a console) Launch nTube.
+3. nTube should be on port of 8080 of localhost.
+
 ## Attributions
 ## License
-Licensed under the POSS. (Possibly Open Source Software License)
+Licensed under the second version of POSS. (Possibly Open Source Software License)
 
 POSS terms:
 
