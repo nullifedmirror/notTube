@@ -1,0 +1,4 @@
+[submodule "nullUtil"]
+	path = nullUtil
+	url = https://notabug.org/nullifed/nullUtil.git
+	branch = 3.x
