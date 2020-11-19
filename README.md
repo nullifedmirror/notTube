@@ -5,14 +5,14 @@ That also supports other services.
 
 
 Information:
-> - Release: 1.5.0-final-rc1
+> - Release: 1.5.0-final-rc2
 - Status: Ready for testing!
 
 ## Reminder
 
 nTube technically breaks a clause of YouTube's TOS but fully behaves like YouTube's own video player, just without any privacy intrusive crap.
 
-nTube is also in pre-release stage and is a work in progress, stuff may break, you've been warned.
+nTube is in a pre-release stage and is slowly being worked on, things may break, you've been warned.
 
 nTube is currently partially broken on mobile platforms due to strict autoplay policies.
 
@@ -41,17 +41,18 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 
 - YouTube (via page extraction, embedded extraction and internal API)
 - BitChute (experimental)
-- Twitch.tv (experimental)
+- Twitch.tv (experimental, avaliable within internal testing)
 
 ## Requirements
 
 - Java JRE/JDK 8 or newer
 - A media compatible web browser (HTML5 preferred, but supports flash player)
+- Internet access
 
 ## Getting Started
 1. Download a distribution of nTube.
 2. (ideally in a console) Launch nTube.
-3. nTube should be on port of 8080 of localhost.
+3. nTube should be on port 8080 of localhost.
 
 ## Attributions
 ## License
@@ -67,4 +68,4 @@ POSS terms:
 - ALLOW_PAID_FREE: YES
 
 ## Code of Conduct (CoC)
-Uses the CoC included in the POSS.
+Uses the second version of the CoC included in the POSS.
