@@ -54,6 +54,12 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 2. (ideally in a console) Launch nTube.
 3. nTube should be on port 8080 of localhost.
 
+## Screenshots 📷
+
+![Home Page](screenshots/home_page.png)
+![Video Page](screenshots/video_page.png)
+![Channel Page](screenshots/channel_page.png)
+
 ## Attributions
 ## License
 Licensed under the second version of POSS. (Possibly Open Source Software License)
