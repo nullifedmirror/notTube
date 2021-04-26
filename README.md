@@ -5,9 +5,9 @@ That also supports other services.
 
 
 Information:
-> - Release: 1.5.0-final-rc1.2
+> - Release: 1.5.0-final-rc2
 - Status: Ready for testing!
-- Next Planned Release: 1.5.0-final-rc2
+- Next Planned Release: 1.5.0-final-rc3
 
 ## Reminder
 
@@ -42,7 +42,6 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 
 - YouTube (via page extraction, embedded extraction and internal API)
 - BitChute (experimental)
-- Twitch.tv (experimental, avaliable within internal testing)
 
 ## Requirements
 
