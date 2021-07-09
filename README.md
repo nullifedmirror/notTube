@@ -5,9 +5,10 @@ That also supports other services.
 
 
 Information:
-> - Release: 1.5.0-final-rc2
+> - Release: 1.5.0-final-rc3
 - Status: Ready for testing!
-- Next Planned Release: 1.5.0-final-rc3
+- Next Planned Release: 1.5.0-final-rc4
+- 1.5.0 will reach stable once rc5 or rc6 is finalized.
 
 ## Reminder
 
@@ -28,7 +29,8 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 - Supports qualities up to 8K 60fps.
 - Supports downloading videos.
 - AV1 codec support.
-- Subtitles support.
+- Subtitles support. (both plain and styled)
+- Experimental DRM support.
 - Livestream support. (experimental)
 - Livestream chat support.
 - Custom theme support.
@@ -46,7 +48,7 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 ## Requirements
 
 - Java JRE/JDK 8 or newer
-- A media compatible web browser (HTML5 preferred, but supports flash player)
+- A media compatible web browser (HTML5 preferred, but has fallback page for flash player)
 - Internet access
 
 ## Getting Started
