@@ -51,7 +51,7 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 - Java (JRE) 8 or newer
 - Internet access
 - At least 512 MB of RAM
-    - Only 128 MB is required OpenJ9 and smaller JRE's
+    - Only 128 MB is required on OpenJ9 and smaller JRE's
 - Single core CPU or better
 
 ## Browser Requirements
