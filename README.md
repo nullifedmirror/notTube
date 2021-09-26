@@ -5,9 +5,9 @@ That also supports other services.
 
 
 Information:
-> - Release: 1.5.0-final-rc3
+> - Release: 1.5.0-final-rc4
 - Status: Ready for testing!
-- Next Planned Release: 1.5.0-final-rc4
+- Next Planned Release: 1.5.0-final-rc5
 - 1.5.0 will reach stable once rc5 or rc6 is finalized.
 
 ## Reminder
