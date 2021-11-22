@@ -5,10 +5,9 @@ That also supports other services.
 
 
 Information:
-> - Release: 1.5.0-final-rc4
+> - Release: 1.5.0-final-rc5
 - Status: Ready for testing!
-- Next Planned Release: 1.5.0-final-rc5
-- 1.5.0 will reach stable once rc5 or rc6 is finalized.
+- Next Planned Release: 1.5.0
 
 ## Reminder
 
@@ -48,7 +47,7 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 
 ## Host Requirements
 
-- Java (JRE) 8 or newer
+- Java (JRE) 8 or newer (up to JRE 16, newer versions are NOT supported)
 - Internet access
 - At least 512 MB of RAM
     - Only 128 MB is required on OpenJ9 and smaller JRE's
