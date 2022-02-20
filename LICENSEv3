@@ -1,0 +1,190 @@
+The POSS License Version 3.0
+(Possibly Open Source Software License)
+
+What?
+
+The POSS license takes an alternate approach on open-source, taking into
+consideration the current political state and the state of the programming
+industry and tries to focus on core values instead of utter bullshit.
+Furthermore, focus is put on attribution and fair-usage of code in which others
+must publish their changes to the code base, although personal changes and experimenting with
+code is fully allowed and are exempt from this rule.
+
+Why?
+
+In the 21st century we have managed to devolve further than before and have
+managed to put politics into everything, including the software we make.
+Most new licenses (and Code of Conducts) seem to enforce how we eat and breathe
+instead of focusing on basic etiquette and that some words clearly are `X` because
+they said so.
+
+If salad and egg emojis are somehow offensive, then clearly we don't deserve to be
+this technologically advanced.
+
+Ok...:
+
+Differences over other Licenses:
+    · Much less scary looking text.
+    · Addresses 2 annoying birds with a single stone.
+    · Does politics politically incorrectly and correctly.
+    · Includes the "Not My Problem™" clause.
+    · This license cannot be revoked.
+    · Allows for use of other licenses while maintaining the clause of this license.
+    · Uses Common Sense.
+	Since you still don't have that.
+
+Differences over v2:
+    · Added requirement of explicitly stating the CoC used.
+    · Improve the language used.
+    · Renamed the "Anti-Woke takeover" clause to the "Not My Problem™" clause
+    · Added a ALL_CHANGES_PUBLIC akin to other licenses, i.e. AGPL	
+    · Clarified license changes and handling other licenses.
+    · Clarified license revocation.
+
+The "Not My Problem™" Clause: (formerly the "Anti-Woke takeover" clause)
+    · Do you have a project or codebase that chose political correctness over code?
+    · Want to continue using it without the politically correct part and with your own fork?
+    Then this license allows you to dump the original License and Code of Conduct,
+    because you can, and replace it with the POSS License and (optionally) the Code
+    of Conduct.
+    Of course you can completely remove the Code of Conduct too.
+    Unhappy because of this? Too bad.
+
+License revocation:
+
+This license under NO circumstances can be removed and all code licensed and formally licensed under the POSS license must use said license.
+However, code using previous versions of POSS may upgrade their license to this version once and cannot return to the older version.
+
+Changing license/re-licensing:
+
+This license CANNOT be switched with another license, or re-licensed into another license. The POSS license ONLY allows the license
+to be upgraded to a newer version of the license. (i.e. v1 -> v2)
+
+Bi-licensing/Co-licensing:
+
+This license CAN be used with other licenses as long as those licenses are included within the source code, HOWEVER the POSS license
+takes priority over other licenses.
+
+License design:
+
+As this license takes a different approach to open-source and licenses, the license presents itself in a much
+easier to understand format and puts the main focal points of the license within a simple table with explanations
+for each component.
+
+License table:
+
+        Main rules:
+		-------------------------------------------------
+		- BASE:                                     YES -
+		-------------------------------------------------
+		- SOFTWARE_OS:                         [YES/NO] -
+		-------------------------------------------------
+		- SOFTWARE_PAID:                       [YES/NO] -
+		-------------------------------------------------
+		- SOFTWARE_3P_STUFF:                   [YES/NO] -
+		-------------------------------------------------
+		- SOFTWARE_WARRANTY:                         NO -
+		-------------------------------------------------
+
+		
+		Subset rule table:
+		-------------------------------------------------
+		- ENFORCE_TRUE_OSS:                    [YES/NO] -
+		-------------------------------------------------
+		- ALLOW_PAID_FREE:                     [YES/NO] -
+		-------------------------------------------------
+		- ALL_RIGHTS_RESERVED:                 [YES/NO] -
+		-------------------------------------------------
+		- COC_VERSION:             [NONE/1.0/2.0/OTHER] -
+		-------------------------------------------------
+		- ALL_CHANGES_PUBLIC                   [YES/NO] -
+		-------------------------------------------------
+        
+        NOTES:
+            1. These values cannot be changed once defined.
+            2. If placeholders like [YES/NO] are present in the table then consider the license invalid.
+		! The value of these placeholders can be placed in the README.md file of source-code repos, this is ALLOWED.
+
+Table explanation:
+    BASE:
+        - The original owner and all contributors will always retain attribution rights, no matter what.
+        - The original owner can also decide to keep all usage rights, even usage rights.
+            (Check ALL_RIGHTS_RESERVED if this is the case for this codebase)
+        - This license defaults to the CoC 2.0, if it decides to include this CoC and unless mentioned otherwise.
+            (Check the COC_VERSION for the version, if it is not present, assume 2.0)
+    SOFTWARE_OS:
+        The license has a strict term on making OSS (Open Source Software) into closed source software.
+	    - If the answer is YES:
+	     - Adding closed-source blobs is perfectly fine, as long it is disclosed that it includes them.
+	     ! Software marked with ENFORCE_TRUE_OSS: Requires ALL parts of it to be open, this includes blobs.
+	    - If the software is open-source and you wish to make it closed-source, then sorry to ruin your day, but this license prohibits that.
+	    - If the software is closed-source and you wish to make it open-source, then you can, although you cannot go back.
+	     - Closed-source blobs are exempt from this rule.
+	     ! Software marked with ENFORCE_TRUE_OSS: Blobs MUST be made open-source too, or must not be included.
+	    - If the answer NO, then the license treats it as a "view/analysis/research/use" only, meaning no republishing can made.
+    SOFTWARE_PAID:
+	    The license has strict enforcement on paid and free software definitions too.
+	    ! ENFORCE_TRUE_OSS: The software must be free as in beer, no-buts.
+	    - If the answer is YES: (and the software IS NOT a fork)
+	     - You are allowed by the license to make the software paid, you should still include this license.
+        - If the answer is YES: (and the software IS a fork)
+	     - It depends the on the fork, if it has been paid for already, then see above.
+         - However, if it is NOT paid, then you are forbidden from re-sale/sale of this product.
+	    - If the answer is NO:
+	     - Then it is free, even if forked or modified, you CANNOT make this product/software paid.
+    SOFTWARE_3P_STUFF:
+	    This license has laid back enforcement of attribution to third-party libraries.
+	    Marking YES or NO will only act as a visual indicator to the end-user that other libraries were used in the product or software.
+    SOFTWARE_WARRANTY:
+	    This license DOES NOT support or provide any warranty.
+
+	    It has so little warranty that here's some scary looking legal text to prove it.
+
+	    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+	    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+	    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+	    IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+	    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+	    ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+	    OTHER DEALINGS IN THE SOFTWARE.
+
+	    Also this license doesn't care if you cause Pluto to no longer be classified as a Dwarf Planet again, your fault.
+    ENFORCE_TRUE_OSS:
+	    - If the answer is YES:
+	     - This license forces ALL components of the source-code to be open-source, including any sub-components or blobs.
+	     ! Check above definitions for any extra conditions when ENFORCE_TRUE_OSS is set to YES.
+    ALLOW_PAID_FREE:
+	    - If the answer is YES:
+	     - The owner has made this paid software free to use.
+	     - The SOFTWARE_PAID field MUST be changed to "YES (ORIGINAL)"
+    ALL_RIGHTS_RESERVED:
+	    - If the answer is YES:
+	     - The owner retains all rights to the code.
+ 	     - The owner may reserve to use his/her rights at ANY point in time.
+	    - If the answer is NO:
+	     - The owner doesn't retain all rights to their code...that's about it.
+    COC_VERSION:
+	    - This provides the versioning of the CoC used, allowed values are NONE, OTHER, 1.0 and 2.0.
+		! If OTHER is used then the CoC used MUST be stated.
+		- "Not My Problem™" Clause Only
+		 ! If there was a previous CoC used, DO NOT use the previous one.
+    ALL_CHANGES_PUBLIC:
+	    - If the answer is YES:
+	     - ALL changes MUST be public and accessible to anyone.
+	    - If the answer is NO:
+	     - Changes DO NOT need to public and accessible to anyone.
+
+Common Sense Code of Conduct - Version 1.0:
+    The Common Sense Code of Conduct
+	    - Don't be an asshole.
+	    - Sometimes you need to be called out for your shit.
+	    - Old terminology doesn't need to be replaced.
+	    - Code != Politics
+	    - No fun allowed :)
+
+Common Sense Code of Conduct - Version 2.0:
+    The Common Sense Code of Conduct
+	    - You can be called out for code quality or other reasons.
+	    - Old terminology does not need any replacement, because of feelings.
+	    - Fun is fun, but is it allowed?
+	    - You shouldn't be an asshole, however, sometimes it is justified.
