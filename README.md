@@ -84,16 +84,24 @@ Other browsers should work, but you may encounter issues.
 
 ## Attributions
 ## License
-Licensed under the second version of POSS. (Possibly Open Source Software License)
+Licensed under the third version of POSS. (Possibly Open Source Software License)
 
 POSS terms:
+
+Main rules:
 
 - SOFTWARE_OS: YES
 - SOFTWARE_PAID: NO
 - SOFTWARE_3P_STUFF: YES
 - SOFTWARE_WARRANTY: NO
+
+Subset rules:
+
 - ENFORCE_TRUE_OSS: YES
 - ALLOW_PAID_FREE: YES
+- ALL_RIGHTS_RESERVED: YES
+- COC_VERSION: 2.0
+- ALL_CHANGES_PUBLIC: NO
 
 ## Code of Conduct (CoC)
 Uses the second version of the CoC included in the POSS.
