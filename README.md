@@ -5,9 +5,9 @@ That also supports other services.
 
 
 Information:
-> - Release: 1.5.0
+> - Release: 1.5.1
 - Status: Ready for use.
-- Next Planned Release: 1.5.1
+- Next Planned Release: 1.5.2
 
 ## Reminder
 
