@@ -1,4 +1,4 @@
-The POSS License Version 3.0
+The POSS License Version 3.0.1
 (Possibly Open Source Software License)
 
 What?
@@ -107,6 +107,8 @@ License table:
 
 Table explanation:
     BASE:
+		- You, the user, are freely allowed to use, modify, derive and fork this code, unless stated otherwise.
+		- You, the user, MUST refer to the license table given in the software.
         - The original owner and all contributors will always retain attribution rights, no matter what.
         - The original owner can also decide to keep all usage rights, even usage rights.
             (Check ALL_RIGHTS_RESERVED if this is the case for this codebase)
@@ -188,3 +190,19 @@ Common Sense Code of Conduct - Version 2.0:
 	    - Old terminology does not need any replacement, because of feelings.
 	    - Fun is fun, but is it allowed?
 	    - You shouldn't be an asshole, however, sometimes it is justified.
+
+=============================
+
+Issues and FAQs:
+	None
+	
+Clarifications:
+	(1) The usage conditions of the POSS license:
+
+		The POSS license allows You, the user, to freely use, modify, edit, derive code and software from POSS licensed software.
+		This statement is valid even with ALL_RIGHTS_RESERVED, except unless stated otherwise by the owner.
+
+		The license table should still be referred to as specific usage conditions may still apply.
+			(i.e, The modified code _MUST_ be published or that the software _MUST_ be free to use)
+
+	-> This clarification was applied to version 3.0.1.
