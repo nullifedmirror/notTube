@@ -5,9 +5,9 @@ That also supports other services.
 
 
 Information:
-> - Release: 1.5.2
+> - Release: 1.5.3
 - Status: Ready for use.
-- Next Planned Release: 1.5.3
+- Next Planned Release: 1.5.4
 
 ## Reminder
 
@@ -47,7 +47,7 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 
 ## Host Requirements
 
-- Java (JRE) 8 or newer (up to JRE 16, newer versions are NOT supported)
+- Java (JRE) 8 or newer (up to JRE 16, newer versions are unofficially supported)
 - Internet access
 - At least 512 MB of RAM
     - Only 128 MB is required on OpenJ9 and smaller JRE's
@@ -65,7 +65,7 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 ## Supported Browsers
 
 - Chrome 30 and newer
-- Firefox 20 and newer
+- Firefox 21 and newer
 - WebKit (WebKitGTK 2+, QtWebKit, QNXWebKit)
 - Opera Presto (<b>Partial support</b>)
 
