@@ -5,9 +5,9 @@ That also supports other services.
 
 
 Information:
-> - Release: 1.5.3
+> - Release: 1.5.4
 - Status: Ready for use.
-- Next Planned Release: 1.5.4
+- Next Planned Release: 1.5.5
 
 ## Reminder
 
@@ -43,7 +43,6 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 ## Supported Services
 
 - YouTube (via page extraction, embedded extraction and internal API)
-- BitChute (deprecated)
 
 ## Host Requirements
 
