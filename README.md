@@ -1,25 +1,23 @@
 # nTube (not[You]Tube)
 
-The sort of lightweight YouTube client.
-That also supports other services.
-
+Yet another self-hosted YouTube frontend...
 
 Information:
-> - Release: 1.5.5
+> - Release: 1.5.6
 - Status: Ready for use.
-- Next Planned Release: 1.5.6
+- Next Planned Release: 1.5.7
 
 ## Reminder
 
 nTube technically breaks a clause of YouTube's TOS but fully behaves like YouTube's own video player, just without any privacy intrusive crap.
 
-nTube is in a pre-release stage and is slowly being worked on, things may break, you've been warned.
+nTube is a slow one-man project, releases come out once in a while.
 
-nTube is currently in an experimental state on mobile platforms.
+nTube is considered "usable to some degree" on mobile platforms.
 
 ## About
 
-nTube is a YouTube client that allows you to interact with via your internet browser. (Unless you're on IE, your screwed)
+nTube is a YouTube client that allows you to interact with via your internet browser.
 
 nTube can view channels, handle subscriptions, view videos and also view playlists. (up to 200 videos)
 
