@@ -3,9 +3,9 @@
 Yet another self-hosted YouTube frontend...
 
 Information:
-> - Release: 1.5.6
+> - Release: 1.5.7
 - Status: Ready for use.
-- Next Planned Release: 1.5.7
+- Next Planned Release: 1.5.8
 
 ## Reminder
 
@@ -17,9 +17,9 @@ nTube is considered "usable to some degree" on mobile platforms.
 
 ## About
 
-nTube is a YouTube client that allows you to interact with via your internet browser.
+nTube is a self-hosted HTML5 YouTube client that is contained within your internet browser.
 
-nTube can view channels, handle subscriptions, view videos and also view playlists. (up to 200 videos)
+nTube can view channels, handle subscriptions, view videos, view playlists, and more!
 
 ## Features
 
@@ -34,9 +34,10 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 - No advertising.
 - No tracking.
 - Trending and Search support.
+- Channel communities support.
 - Subscriptions.
 - Supports both old and new browsers.
-- Sponsor blocking (data kindly provided by the SponsorBlock project)
+- Sponsor blocking (capability provided by the SponsorBlock project)
 
 ## Supported Services
 
@@ -61,10 +62,12 @@ nTube can view channels, handle subscriptions, view videos and also view playlis
 
 ## Supported Browsers
 
-- Chrome 30 and newer
+The following browsers are tested by the developer:
+
+- Latest Chrome
 - Firefox 21 and newer
 - WebKit (WebKitGTK 2+, QtWebKit, QNXWebKit)
-- Opera Presto (<b>Partial support</b>)
+- Opera Presto (<b>Partially supported</b>)
 
 Other browsers should work, but you may encounter issues.
 
