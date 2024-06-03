@@ -2,8 +2,8 @@
 
 Yet another self-hosted YouTube frontend...
 
--   Current Release: 1.5.8
--   Next Planned Release: 1.5.9
+-   Current Release: 1.5.9
+-   Next Planned Release: 1.5.10
 
 ## Reminder
 
@@ -57,7 +57,7 @@ nTube is a self-hosted HTML5 YouTube client that is contained within your intern
 | Chrome            |                       | X             | X            |
 | Safari (iOS)      | X                     |               |              |
 | Safari (iPadOS)   | X                     |               |              |
-| Safari (macOS)    | X                     |               |              |
+| Safari (macOS)    |                       | X             |              |
 | WebKit (BB10/QNX) |                       | X             |              |
 | WebKit (GTK)      |                       | X             |              |
 
